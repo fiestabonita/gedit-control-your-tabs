@@ -17,6 +17,8 @@ gedit 2 users should use [v0.1.2][].
 
 ## Installation ##
 
+Automatic install on Ubuntu: ``` wget -O - https://raw.githubusercontent.com/fiestabonita/gedit-control-your-tabs/master/download-gedit-tabs.sh | bash ```
+
 1.  Download the source code (as [zip][] or [tar.gz][]) and extract.
 2.  Copy `controlyourtabs.py` and the appropriate `.plugin` file into
     `~/.local/share/gedit/plugins` (create if it does not exist):
